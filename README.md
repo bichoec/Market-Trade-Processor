@@ -13,4 +13,4 @@ just is an example and you can change the rate in processor.php
 
 All the templates are free and Chart library are lite version that I use in my demo.
 
-Live demo http://www.ibugs.biz/market
+Live demo http://www.ibugs.biz/market/web
