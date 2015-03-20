@@ -76,8 +76,9 @@ http://www.templatemo.com/preview/templatemo_394_sonic
 		            <input type="text" value="" id="val_to">
 		            <span>
 			            <select id="to">
+			            <option value="EUR" selected></option>
 							<option value="EUR">EUR</option>
-                            <option value="USD" selected>USD</option>
+                            <option value="USD">USD</option>
 			            </select>
 		            </span>	
                     </div>

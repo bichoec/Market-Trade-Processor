@@ -125,6 +125,7 @@ $('#save').click(function(){
 							alert("Data saved");
 							$( "#confirm" ).hide(1000);
 							$( "#normal" ).show(1000);
+							window.location.href = "";
 				
 						}
 						else{
