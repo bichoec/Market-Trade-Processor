@@ -27,10 +27,10 @@ http://www.templatemo.com/preview/templatemo_394_sonic
         <div class="navigation responsive-menu">
             <ul>
                 <li class="home"><a href="#templatemo">Home</a></li>
-	            <li class="about"><a href="#about">About Us</a></li>
+	            <!-- <li class="about"><a href="#about">About Us</a></li>
 	            <li class="services"><a href="#services">Services</a></li>
-	            <li class="portfolio"><a href="#portfolio">Portfolio</a></li>
-	            <li class="contact"><a href="#contact">Contact</a></li>
+	            <li class="portfolio"><a href="#portfolio">Portfolio</a></li> 
+	            <li class="contact"><a href="#contact">Contact</a></li>-->
             </ul> <!-- /.main_menu -->
         </div> <!-- /.responsive_menu -->
     </div> <!-- /responsive_navigation -->
@@ -47,8 +47,8 @@ http://www.templatemo.com/preview/templatemo_394_sonic
 	        <ul class="main-menu">
 	            <li class="home"><a href="#" id="ini">Home</a></li>
 	            <li class="about"><a href="#" id="his">HISTORY</a></li>
-	            <li class="services"><a href="#services">Services</a></li>
-	            <li class="portfolio"><a href="#portfolio">Portfolio</a></li>
+	            <!-- <li class="services"><a href="#services">Services</a></li>
+	            <li class="portfolio"><a href="#portfolio">Portfolio</a></li> -->
 	            <li class="contact"><a href="javascript:void(0);" id="logout">Log out</a></li>
 	        </ul>
 		</div> <!-- /.navigation -->
